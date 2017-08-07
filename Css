@@ -21,3 +21,17 @@ h2{
 }
 h3{
     margin:0 2%;
+.aligner{
+    float:right;
+    margin: 10px 10% 0 0;
+}
+.up{
+    margin: 0 0 2% 4%;
+}
+
+.passion{
+    text-align: center;
+    display:inline;
+    margin: 0 7.5% ;
+
+}
